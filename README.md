@@ -32,10 +32,10 @@ I'm studying **Web Front-End**. <br><br><br><br><br>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-Youn&layout=compact&theme=flag-india)
   
-![Dayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Da-Youn&show_icons=true&theme=flag-india)
+![Dayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Da-Youn&show_icons=true&theme=flag-india)<br><br>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:f9d50b,100:fff5b9&height=140)<br><br>
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:f9d50b,100:fff5b9&height=140)
 </div>
 
 
