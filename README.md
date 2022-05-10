@@ -9,11 +9,11 @@ I'm studying **Web Front-End**. <br><br><br><br><br>
 
 ### 🌻 Education
 **Seoul Womens Univ. (2018.03~)<br>**
-◻ Japanese and Literature <br> ◻ Digital Convergence Management<br><br><br>
+◻ Japanese and Literature <br> ◻ Digital Convergence Management<br><br>
  
 ### 😊 Be into
 ◻ Web Front-End
-◻ Studying Japanese<br><br><br>
+◻ Studying Japanese<br><br>
   
 ### 🛠️ Skills 🛠️
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
@@ -21,10 +21,10 @@ I'm studying **Web Front-End**. <br><br><br><br><br>
 <br>
 ![c++ badge](https://img.shields.io/badge/-C++-56A26C?style=flat-square&logo=C++&logoColor=white)
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
-![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)<br><br><br>
+![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)<br><br>
  
 ### 💛 Experience 💛
-![10th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10&style=flat) 2022.03~<br><br><br>
+![10th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10&style=flat) 2022.03~<br><br>
   
 ### 📔 Now Studying 📔
 〽 Nomadcoders - Vanilla JavaScript <br><br><br><br><br>
