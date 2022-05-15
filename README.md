@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f9d50b,100:fff5b9&height=180&section=header&text=Da-Youn&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Welcome%20to%20my%20Github!&descAlignY=45&&descSize=18)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8a9352,100:fff5b9&height=180&section=header&text=Da-Youn&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Welcome%20to%20my%20Github!&descAlignY=45&&descSize=18)
   
 ### Hello! I'm Dayoun.
 I'm studying **Web Front-End**. <br><br><br><br>
@@ -35,7 +35,7 @@ I'm studying **Web Front-End**. <br><br><br><br>
 ![Dayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Da-Youn&show_icons=true&theme=flag-india)<br><br>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:f9d50b,100:fff5b9&height=140)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:8a9352,100:fff5b9&height=140)
 </div>
 
 
