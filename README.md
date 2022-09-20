@@ -27,7 +27,9 @@ I'm studying **Web Front-End**. <br><br><br><br>
 ![10th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10&style=flat) 2022.03~<br><br>
   
 ### 📔 Now Studying 📔
-〽 Nomadcoders - Vanilla JavaScript <br><br><br><br><br>
+〽 Nomadcoders - Vanilla JavaScript <br>
+💟 Udemy - The Web Developer Boot Camp 2022<br><br><br><br>
+
  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-Youn&layout=compact&theme=flag-india)
