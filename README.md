@@ -19,7 +19,7 @@
 [LikeLion Front-End School 5th] 2023.02- <br><br>
  
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-Youn&layout=compact&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-Youn&layout=compact&theme=flag-india)<br>
   
 ![Dayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Da-Youn&show_icons=true&theme=flag-india)<br><br>
 
