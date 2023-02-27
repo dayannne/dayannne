@@ -4,7 +4,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8a9352,100:fff5b9&height=180&section=header&text=Da-Youn&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Welcome%20to%20my%20Github!&descAlignY=45&&descSize=18)
   
-### Hello! I'm Dayoun. <br><br><br><br>
+### Hello! I'm Dayoun. <br><br>
   
 ### 🛠️ Skills 🛠️
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
