@@ -2,10 +2,9 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffa140,100:fcd53f&height=180&section=header&text=Da-Youn&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Welcome%20to%20my%20Github!&descAlignY=45&&descSize=18)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffa140,100:fcd53f&height=180&section=header&text=Da-Youn&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Hello,%20Welcome%20to%20my%20Github!&descAlignY=45&&descSize=24)
   
-### *Hello! I'm Dayoun.* <br><br>
-  
+
 ### 🛠️ Skills 🛠️
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
