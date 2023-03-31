@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8a9352,100:fff5b9&height=180&section=header&text=Da-Youn&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Welcome%20to%20my%20Github!&descAlignY=45&&descSize=18)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffa140,100:fcd53f&height=180&section=header&text=Da-Youn&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Welcome%20to%20my%20Github!&descAlignY=45&&descSize=18)
   
-### Hello! I'm Dayoun. <br><br>
+### *Hello! I'm Dayoun.* <br><br>
   
 ### 🛠️ Skills 🛠️
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
@@ -22,9 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-Youn&layout=compact&theme=flag-india)<br>
   
 ![Dayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Da-Youn&show_icons=true&theme=flag-india)<br><br>
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:8a9352,100:fff5b9&height=140)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:fcd53f,100:ffa140&height=140)
 </div>
 
 
