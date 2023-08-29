@@ -23,8 +23,8 @@
 <a href="https://velog.io/@day_1226" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:dayoun202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-F24E1E?style=flat-square&logo=gmail&logoColor=white"/></a> <br><br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayanne&layout=compact&theme=material-palenight)
-![Dayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayanne&show_icons=true&theme=material-palenight)<br><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayannne&layout=compact&theme=material-palenight)
+![Dayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayannne&show_icons=true&theme=material-palenight)<br><br><br>
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:677bbf,100:ae82ce&height=140)
 
 </div>
