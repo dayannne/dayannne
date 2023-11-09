@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:677bbf,100:ae82ce&height=200&section=header&text=Dayeon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=20&desc=Hello,%20Welcome%20to%20my%20Github!&descAlignY=45&&descSize=24)
 
-## 👩🏻‍💻 Skills 👩🏻‍💻
+## Skills 👩🏻‍💻
 
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
@@ -18,7 +18,7 @@
 ![figma badge](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 <br><br><br>
 
-## 💜 About Me 💙
+## About Me 🪻
 
 <a href="https://velog.io/@day_1226" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:dayoun202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-F24E1E?style=flat-square&logo=gmail&logoColor=white"/></a> <br><br><br>
