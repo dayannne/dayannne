@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:677bbf,100:ae82ce&height=200&section=header&text=Dayeon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=20&desc=Hello,%20Welcome%20to%20my%20Github!&descAlignY=45&&descSize=24)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:677bbf,100:ae82ce&height=200&section=header&text=Hello,%20I'm%20Da-yeon🪻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ## Skills 👩🏻‍💻
 
@@ -20,6 +20,7 @@
 ## Styding 🌱
 ![typescript badge](https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat-square&logo=TypeScript&logoColor=white&color=3178C6)
 ![nextjs badge](https://img.shields.io/badge/-Next.js-%23F7DF1E?style=flat-square&logo=nextdotjs&logoColor=white&color=000000)
+<br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayannne&layout=compact&theme=material-palenight)
 ![Dayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayannne&show_icons=true&theme=material-palenight)<br><br><br>
