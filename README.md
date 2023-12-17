@@ -17,9 +17,9 @@
 ![figma badge](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 <br><br><br>
 
-## About Me 🪻
-
-<a href="https://velog.io/@day_1226" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/> <br><br><br>
+## Styding 🌱
+![typescript badge](https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat-square&logo=TypeScript&logoColor=white&color=3178C6)
+![nextjs badge](https://img.shields.io/badge/-Next.js-%23F7DF1E?style=flat-square&logo=nextdotjs&logoColor=white&color=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayannne&layout=compact&theme=material-palenight)
 ![Dayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayannne&show_icons=true&theme=material-palenight)<br><br><br>
