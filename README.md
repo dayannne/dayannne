@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:677bbf,100:ae82ce&height=200&section=header&text=Hello,%20I'm%20Da-yeon🪻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:677bbf,100:ae82ce&height=180&section=header&text=Hello,%20I'm%20Da-youn!🪻&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32)
 
 ## Skills 👩🏻‍💻
 
