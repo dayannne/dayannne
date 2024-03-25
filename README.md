@@ -2,6 +2,9 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:677bbf,100:ae82ce&height=160&section=header&text=Hello,%20I'm%20Da-youn!🪻&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=30)
 
+ 🌳 안녕하세요, 프론트엔드 개발자 차다연입니다 🪻<br/><br/><br/>
+ 
+
 ## Skills 👩🏻‍💻
 
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
