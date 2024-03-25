@@ -10,6 +10,7 @@
 ![typescript badge](https://img.shields.io/badge/-TypeScript-%23F7DF1E?style=flat-square&logo=TypeScript&logoColor=white&color=3178C6)
 <br>
 ![react badge](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white)
+![react badge](https://img.shields.io/badge/-Recoil-%2361DAFB?style=flat-square&logo=recoil&logoColor=white&color=3578E5)
 ![react badge](https://img.shields.io/badge/-ReactQuery-%2361DAFB?style=flat-square&logo=react-query&logoColor=white&color=FF4154)
 ![styledcomponents badge](https://img.shields.io/badge/-styled--components-%23DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 <br>
