@@ -1,6 +1,6 @@
-<div align="center">
+
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:677bbf,100:ae82ce&height=160&section=header&text=Hello,%20I'm%20Da-youn!🪻&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:677bbf,100:ae82ce&height=160&section=header&text=Dayannne&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=30)
 
  🌳 안녕하세요, 프론트엔드 개발자 차다연입니다 🪻<br/><br/><br/>
  
