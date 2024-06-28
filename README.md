@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=DAYOUN'S%20GITHUB&reversal=true&textBg=false&desc=FE%20DEVELOPER&descAlign=50&descAlignY=76&descSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=250&color=0:604586,100:516294&text=DAYOUN'S%20GITHUB&reversal=true&textBg=false&desc=FE%20DEVELOPER&descAlign=50&descAlignY=76&descSize=30&fontColor=ffffff&animation=twinkling)
 
 </div>
 
