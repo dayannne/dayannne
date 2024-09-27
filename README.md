@@ -12,14 +12,15 @@
 
 <div align="center">
 
- 차다연(Dayoun Cha, チャ・ダヨン)&nbsp;&nbsp; <b>Front-End Developer</b> <br/><br/><br/>
+ 차다연(Dayoun Cha, チャ・ダヨン)&nbsp;&nbsp; <b>Front-End Developer</b><br/><br/>
+ <!--
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayannne&count_bg=%23a888f7&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+ -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayannne&layout=compact&theme=material-palenight)&nbsp;&nbsp; 
-![Dayoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayannne&show_icons=true&theme=material-palenight)
 
 </div>
 
-<br/>
+
 
 # 👩🏻‍💻 Skills 
 
@@ -46,3 +47,19 @@
 
 </div>
 
+<br/><br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dayannne&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=a888f7&count_private=true" width=47% />
+</a>
+<a href="https://github.com/dayannne/github-stats-transparent">
+ <img src="https://raw.githubusercontent.com/dayannne/github-stats-transparent/output/generated/languages.svg" width=51% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dayannne&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=a888f7" width=98%/>
+</a>
+
+
+<!--
+
+-->
